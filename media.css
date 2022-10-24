@@ -1,0 +1,145 @@
+@media(max-width: 1140px){
+    . img imge12{
+        width: 200px;
+        left: 296px;
+    }
+    . imge13{
+        width: 372px;
+    }
+    .hero-ali img{
+        width: 100px;
+    }
+    .imge14{
+        right: -222px;
+    }
+    .block{
+        width: 79px;
+        left: 268%;
+        bottom: 42%;
+    }
+    .history-title ion-icon{
+        left: 754px;
+    }
+    .history-block2{
+        width: 200px;
+        margin: 0 20px;
+    }
+    .history-block{
+        /*margin: ;*/
+        width: 549px;
+    }
+    .history-block3{
+        width: 270px;
+        margin: 0 10px;
+    }
+    .history-block4{
+        width: 70px;
+    }
+    .div-hi{
+        left: 453px;
+    }
+    .sell-block{
+        width: 1073px;
+
+    }
+    .sell-absa{
+        left: 414px;
+    }
+    .galeries{
+        display: flex;
+        justify-content: space-between;
+    }
+    .galeries-block2 h2{
+        left: 670px;
+    }
+    .galeries-block2 h3{
+        left: 1035px;
+    }
+    .latest {
+        display: flex;
+        justify-content: space-between;
+    }
+    .latest-block{
+        width: 369px;
+    }
+    .enter-title2{
+        font-size:  30px;
+        line-height: 87px;
+    }
+    .enter-title{
+        width: 342px;
+    }
+    .enter-title3{
+        width: 107px;
+    }
+
+
+
+}
+@media(max-width: 1200px){
+
+}
+@media(max-width: 1024px){
+    .hero-name{
+        margin-right: 500px;
+    }
+    .imge13{
+        margin: 60px 27px;
+        width: 330px;
+    }
+    .imge12{
+        width: 306px;
+        left: 282px;
+    }
+    .history-block{
+        width: 432px;
+    }
+    .history-block{
+        height: 345px;
+        margin: 80px 10px;
+    }
+    .div-hi{
+        top: 1189px;
+        left: 341px;
+        width: 107px;
+        height: 150px;
+    }
+    .div-bye{
+        width: 84px;
+        height: 87px;
+        top: 33px;
+    }
+    .history-block2{
+        left: 49%;
+    }
+    .history-block3{
+        left: 70%;
+    }
+    .galeries{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
+}
+@media(max-width: 992px){
+
+}
+@media(max-width: 768px){
+
+}
+@media(max-width: 576px){
+
+}
+@media(max-width: 450px){
+
+}
+@media(max-width: 400px){
+
+}
+@media(max-width: 376px){
+
+}
+@media(max-width: 320px){
+
+}
